@@ -19,10 +19,8 @@ Our project will be utilizing this COVID dataset from the data world website tha
 ## Data Sources
 Web sites we used in this projects are:
 
-     1. https://data.world/covid-19-data-resource-hub/covid-19-case-counts
+    1. https://data.world/covid-19-data-resource-hub/covid-19-case-counts
     2. https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021
-
-yknow
 
 ## Data Cleanup & Analysis
   We cleaned and analyze our data from these four csv files
@@ -30,7 +28,7 @@ yknow
     2. population_by_country_2020.csv
     3. world-happiness-report-2021.csv
     4. world-happiness-report.csv
-we downloaded our data sets, cleaned any irrelevant columns and dropped duplicates , forming DataFrames.
+We downloaded our data sets, cleaned any irrelevant columns and dropped duplicates , forming DataFrames.
 
 
 Technologies used are:
@@ -45,11 +43,7 @@ Transformation Steps:
 5. Cleaned world-happiness-report-2021.csv  to columns ( year, country, life_expentency, life_freedom)
 6. Then export these DataFrame into SQL tables, we developed one final table to show all the data together.
 
-Potential analysis on this dataset was created.
-we faced few challenges along the way, from cleaning data, exporting data in SQL
-
-Findings and Discussions:
-
+Potential analysis on this dataset was created, and we faced few challenges along the way, from cleaning data, to exporting data in SQL
 
 
 
